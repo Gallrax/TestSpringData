@@ -18,4 +18,12 @@ public interface AddressRepository extends JpaRepository<Address, Integer>, JpaS
     List<Address> findByUser(User user);
 
     List<Address> findByZipCodeLike(String zipCode);
+
+    /**
+     * @Author: 冯冠凯 
+     * @Description: 根据Address的user属性的sex属性进行查询 -> ByUserSex
+     * @Date: Created on 2018/2/2
+     * @Version: 1.0
+     */
+    List<Address> findByUserSex(Integer sex);
 }
