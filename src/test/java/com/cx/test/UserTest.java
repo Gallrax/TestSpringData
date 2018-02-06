@@ -1,7 +1,10 @@
 package com.cx.test;
 
 import com.cx.entity.Address;
+import com.cx.entity.ESUser;
+import com.cx.entity.RedisUser;
 import com.cx.entity.User;
+import com.cx.repository.es.ESUserRepository;
 import com.cx.repository.jpa.AddressRepository;
 import com.cx.repository.jpa.UserRepository;
 import com.cx.service.UserService;
@@ -11,6 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
+import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
 import org.springframework.data.jpa.domain.Specification;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -38,6 +42,12 @@ public class UserTest {
     private AddressRepository addressRepository;
     @Autowired
     private UserService userService;
+//    @Autowired
+//    private RedisUserRepository redisUserRepository;
+    @Autowired
+    private ESUserRepository esUserRepository;
+    @Autowired
+    private ElasticsearchTemplate elasticsearchTemplate;
 
     @Test
     public void test01() {
@@ -88,6 +98,7 @@ public class UserTest {
         Page<Address> addressPage = addressRepository.findAll(specification, new PageRequest(0, 10));
         List<Address> addresses = addressPage.getContent();
         System.out.println(addresses);
+
     }
 
     @Test
@@ -115,9 +126,61 @@ public class UserTest {
     }
 
     @Test
+    public void test09() {
+        List<Address> addresses = addressRepository.findByUserSex(1);
+        for (Address address : addresses) {
+            System.out.println(address);
+        }
+    }
+
+    @Test
     public void test20() {
         User user = userService.save(new User("Tom", "t", 1, "Tom@cx.com"));
         System.out.println(user);
     }
+
+    @Test
+    public void test21() {
+        RedisUser redisUser1 = new RedisUser(1,"Tom", "t", 1, "Tom@cx.com");
+        RedisUser redisUser2 = new RedisUser(2,"Aa", "a", 1, "Aa@cx.com");
+        RedisUser redisUser3 = new RedisUser(3,"Bb", "b", 1, "Bb@cx.com");
+//        RedisUser tempUser1 = redisUserRepository.save(redisUser1);
+//        RedisUser tempUser2 = redisUserRepository.save(redisUser2);
+//        RedisUser tempUser3 = redisUserRepository.save(redisUser3);
+    }
+
+    @Test
+    public void test22() {
+        ESUser esUser1 = new ESUser(1,"Tom", "t", 1, "Tom@cx.com");
+        ESUser esUser2 = new ESUser(2,"Aa", "a", 1, "Aa@cx.com");
+        ESUser esUser3 = new ESUser(3,"Bb", "b", 1, "Bb@cx.com");
+        esUserRepository.save(esUser1);
+        esUserRepository.save(esUser2);
+        esUserRepository.save(esUser3);
+    }
+
+    @Test
+    public void test24() {
+        Iterable<ESUser> esUsers = esUserRepository.findAll();
+        for (ESUser esUser : esUsers) {
+            System.out.println(esUser);
+        }
+    }
+
+    @Test
+    public void test25() {
+        List<ESUser> esUsers = esUserRepository.findByName("Aa");
+        for (ESUser esUser : esUsers) {
+            System.out.println(esUser);
+        }
+
+    }
+
+    @Test
+    public void test26() {
+        ESUser esUser = new ESUser( "Aa", "a", 1, "Aa@cx.com");
+        esUserRepository.index(esUser);
+    }
+
 
 }

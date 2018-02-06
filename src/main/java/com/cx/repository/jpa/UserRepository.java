@@ -3,6 +3,8 @@ package com.cx.repository.jpa;
 import com.cx.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
 
 import java.util.List;
 
@@ -23,4 +25,16 @@ public interface UserRepository extends JpaRepository<User, Integer>, JpaSpecifi
     List<User> findBySex(Integer sex);
 
     List<User> findByNameOrSurname(String name, String surname);
+
+    @Query(value = "select u from User u where u.id = ?1")
+    User tempHql(Integer id);
+
+    @Query(value = "select u from User u where u.id = :cx_id")
+    User tempHqlParam(@Param("cx_id") Integer id);
+
+    @Query(value = "select * from cx_user where id = ?1", nativeQuery = true)
+    User tempSql(Integer id);
+
+    @Query(value = "select * from cx_user where id = :cx_id", nativeQuery = true)
+    User tempSqlParam(@Param("cx_id") Integer id);
 }
