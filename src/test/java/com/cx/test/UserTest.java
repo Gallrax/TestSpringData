@@ -7,6 +7,7 @@ import com.cx.entity.User;
 import com.cx.repository.es.ESUserRepository;
 import com.cx.repository.jpa.AddressRepository;
 import com.cx.repository.jpa.UserRepository;
+import com.cx.repository.redis.RedisUserRepository;
 import com.cx.service.UserService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -16,6 +17,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.elasticsearch.core.ElasticsearchTemplate;
 import org.springframework.data.jpa.domain.Specification;
+import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
+import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.persistence.criteria.*;
@@ -42,12 +45,16 @@ public class UserTest {
     private AddressRepository addressRepository;
     @Autowired
     private UserService userService;
-//    @Autowired
-//    private RedisUserRepository redisUserRepository;
+        @Autowired
+    private RedisUserRepository redisUserRepository;
     @Autowired
     private ESUserRepository esUserRepository;
     @Autowired
     private ElasticsearchTemplate elasticsearchTemplate;
+    @Autowired
+    private JedisConnectionFactory factory;
+    @Autowired
+    private RedisTemplate<String, Object> redisTemplate;
 
     @Test
     public void test01() {
@@ -141,9 +148,9 @@ public class UserTest {
 
     @Test
     public void test21() {
-        RedisUser redisUser1 = new RedisUser(1,"Tom", "t", 1, "Tom@cx.com");
-        RedisUser redisUser2 = new RedisUser(2,"Aa", "a", 1, "Aa@cx.com");
-        RedisUser redisUser3 = new RedisUser(3,"Bb", "b", 1, "Bb@cx.com");
+        RedisUser redisUser1 = new RedisUser(1, "Tom", "t", 1, "Tom@cx.com");
+        RedisUser redisUser2 = new RedisUser(2, "Aa", "a", 1, "Aa@cx.com");
+        RedisUser redisUser3 = new RedisUser(3, "Bb", "b", 1, "Bb@cx.com");
 //        RedisUser tempUser1 = redisUserRepository.save(redisUser1);
 //        RedisUser tempUser2 = redisUserRepository.save(redisUser2);
 //        RedisUser tempUser3 = redisUserRepository.save(redisUser3);
@@ -151,9 +158,9 @@ public class UserTest {
 
     @Test
     public void test22() {
-        ESUser esUser1 = new ESUser(1,"Tom", "t", 1, "Tom@cx.com");
-        ESUser esUser2 = new ESUser(2,"Aa", "a", 1, "Aa@cx.com");
-        ESUser esUser3 = new ESUser(3,"Bb", "b", 1, "Bb@cx.com");
+        ESUser esUser1 = new ESUser(1, "Tom", "t", 1, "Tom@cx.com");
+        ESUser esUser2 = new ESUser(2, "Aa", "a", 1, "Aa@cx.com");
+        ESUser esUser3 = new ESUser(3, "Bb", "b", 1, "Bb@cx.com");
         esUserRepository.save(esUser1);
         esUserRepository.save(esUser2);
         esUserRepository.save(esUser3);
@@ -178,9 +185,23 @@ public class UserTest {
 
     @Test
     public void test26() {
-        ESUser esUser = new ESUser( "Aa", "a", 1, "Aa@cx.com");
+        ESUser esUser = new ESUser("Aa", "a", 1, "Aa@cx.com");
         esUserRepository.index(esUser);
     }
 
+    @Test
+    public void test27() {
+        RedisUser redisUser = new RedisUser("Cc", "c", 1, "Cc@cx.com");
+        RedisUser user = redisUserRepository.save(redisUser);
+        System.out.println(user);
+    }
+
+    @Test
+    public void test28() {
+        Iterable<RedisUser> redisUsers = redisUserRepository.findAll();
+        for (RedisUser redisUser : redisUsers) {
+            System.out.println(redisUser);
+        }
+    }
 
 }

@@ -3,7 +3,9 @@ package com.cx.entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.data.annotation.Id;
+import org.springframework.data.redis.core.RedisHash;
+
+import java.io.Serializable;
 
 /**
  * @Author: 冯冠凯
@@ -14,10 +16,10 @@ import org.springframework.data.annotation.Id;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-//@RedisHash
-public class RedisUser {
+@RedisHash
+public class RedisUser implements Serializable {
 
-    @Id
+//    @Id
     private Integer id;
 //    @Indexed
     private String name;

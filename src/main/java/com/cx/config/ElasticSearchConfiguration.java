@@ -18,16 +18,16 @@ import java.util.UUID;
  * @Date: Created on 2018/2/6
  * @Version: 1.0
  */
-@Configuration
-@EnableElasticsearchRepositories
+//@Configuration
+//@EnableElasticsearchRepositories(basePackages = "com.cx.repository.es")
 public class ElasticSearchConfiguration {
 
-    @Autowired
+//    @Autowired
     private ElasticsearchOperations elasticsearchOperations;
-    @Autowired
+//    @Autowired
     private ESUserRepository esUserRepository;
 
-    @Bean
+//    @Bean
     public NodeClientFactoryBean client() {
 
         NodeClientFactoryBean bean = new NodeClientFactoryBean(true);
@@ -39,7 +39,7 @@ public class ElasticSearchConfiguration {
         return bean;
     }
 
-    @Bean
+//    @Bean
     public ElasticsearchTemplate elasticsearchTemplate(Client client) throws Exception {
         return new ElasticsearchTemplate(client);
     }

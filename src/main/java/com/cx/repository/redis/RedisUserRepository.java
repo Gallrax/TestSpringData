@@ -1,7 +1,7 @@
 package com.cx.repository.redis;
 
 import com.cx.entity.RedisUser;
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.keyvalue.repository.KeyValueRepository;
 
 import java.util.List;
 
@@ -11,7 +11,7 @@ import java.util.List;
  * @Date: Created on 2018/2/6
  * @Version: 1.0
  */
-public interface RedisUserRepository extends CrudRepository<RedisUser, Integer> {
+public interface RedisUserRepository extends KeyValueRepository<RedisUser, Integer> {
 
     List<RedisUser> findByName(String name);
 

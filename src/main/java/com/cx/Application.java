@@ -1,7 +1,6 @@
 package com.cx;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
@@ -10,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Date: Created on 2018/2/1
  * @Version: 1.0
  */
-@EnableAutoConfiguration
 @SpringBootApplication
 public class Application {
 
