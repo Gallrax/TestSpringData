@@ -13,6 +13,8 @@ import java.util.List;
  */
 public interface RedisUserRepository extends KeyValueRepository<RedisUser, Integer> {
 
+    RedisUser findById(Integer id);
+
     List<RedisUser> findByName(String name);
 
     List<RedisUser> findBySurname(String surname);

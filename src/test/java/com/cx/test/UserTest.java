@@ -1,5 +1,6 @@
 package com.cx.test;
 
+import com.alibaba.fastjson.JSON;
 import com.cx.entity.Address;
 import com.cx.entity.ESUser;
 import com.cx.entity.RedisUser;
@@ -45,7 +46,7 @@ public class UserTest {
     private AddressRepository addressRepository;
     @Autowired
     private UserService userService;
-        @Autowired
+    @Autowired
     private RedisUserRepository redisUserRepository;
     @Autowired
     private ESUserRepository esUserRepository;
@@ -82,10 +83,16 @@ public class UserTest {
         Specification<User> specification = new Specification<User>() {
             @Override
             public Predicate toPredicate(Root<User> root, CriteriaQuery<?> criteriaQuery, CriteriaBuilder criteriaBuilder) {
-                return criteriaBuilder.like(root.<String>get("name"), "%a%");
+                return criteriaBuilder.equal(root.<String>get("name"), "Aa");
             }
         };
+        long one = System.currentTimeMillis();
         Page<User> userPage = userRepository.findAll(specification, new PageRequest(0, 10));
+        long two = System.currentTimeMillis();
+        Page<User> userPage2 = userRepository.findAll(specification, new PageRequest(0, 10));
+        long three = System.currentTimeMillis();
+        System.out.println(" first : " + (two - one));
+        System.out.println(" two : " + (three - two));
         List<User> users = userPage.getContent();
         System.out.println(users);
     }
@@ -202,6 +209,102 @@ public class UserTest {
         for (RedisUser redisUser : redisUsers) {
             System.out.println(redisUser);
         }
+    }
+
+    @Test
+    public void test29() {
+        User user = new User("Aa", "a", 1, "Aa@cx.com");
+        for (int i = 10; i < 10000; i++) {
+            user.setId(null);
+            userRepository.save(user);
+        }
+    }
+
+    @Test
+    public void test30() {
+        Long oneSum = 0l;
+        for (int i = 1; i <= 5000; i++) {
+            long beginOne = System.currentTimeMillis();
+            User one = userRepository.findOne(i);
+            long endOne = System.currentTimeMillis();
+            oneSum += (endOne - beginOne);
+        }
+        System.out.println("findOne 5000次 共耗时: " + oneSum + "平均值 : " + (oneSum / 5000));
+        Long twoSum = 0l;
+        for (int i = 5001; i <= 10000; i++) {
+
+            long beginTwo = System.currentTimeMillis();
+            User two = userRepository.findById(i);
+            long endTwo = System.currentTimeMillis();
+            twoSum += (endTwo - beginTwo);
+        }
+        System.out.println("findById 5000次 共耗时: " + twoSum + "平均值 : " + (twoSum / 5000));
+    }
+
+    @Test
+    public void test31() {
+        Specification<User> specification = new Specification<User>() {
+            @Override
+            public Predicate toPredicate(Root<User> root, CriteriaQuery<?> criteriaQuery, CriteriaBuilder criteriaBuilder) {
+                return criteriaBuilder.equal(root.<String>get("name"), "Aa");
+            }
+        };
+        long beginTemp = System.currentTimeMillis();
+        List<User> temp = userRepository.findAll(specification);//存入一级缓存，避免影响后续查询时效不平等
+        long endTemp = System.currentTimeMillis();
+        System.out.println("first 共耗时: " + (endTemp - beginTemp));
+        Long twoSum = 0l;
+        for (int i = 0; i < 1000; i++) {
+            long beginTwo = System.currentTimeMillis();
+            List<User> users = userRepository.findByName("Aa");
+            long endTwo = System.currentTimeMillis();
+            twoSum += (endTwo - beginTwo);
+        }
+        System.out.println("findByName 1000次 共耗时: " + twoSum + "平均值 : " + (twoSum / 1000));
+        Long oneSum = 0l;
+        for (int i = 0; i < 1000; i++) {
+            long beginOne = System.currentTimeMillis();
+            List<User> users = userRepository.findAll(specification);
+            long endOne = System.currentTimeMillis();
+            oneSum += (endOne - beginOne);
+        }
+        System.out.println("findAll 1000次 共耗时: " + oneSum + "平均值 : " + (oneSum / 1000));
+    }
+
+    @Test
+    public void test32() {
+        RedisUser redisUser = new RedisUser("Aa", "a", 1, "Aa@cx.com");
+        for (int i = 0; i < 10000; i++) {
+            redisUser.setId(i);
+            redisUserRepository.save(redisUser);
+        }
+    }
+
+    @Test
+    public void test33() {
+        for (int i = 20000; i < 30000; i++) {
+            RedisUser redisUser = new RedisUser(i, "Aa", "a", 1, "Aa@cx.com");
+            redisTemplate.opsForValue().set(i + "", JSON.toJSON(redisUser).toString());
+        }
+    }
+
+    @Test
+    public void test34() {
+        long beginOne = System.currentTimeMillis();
+        for (int i = 0; i < 10000; i++) {
+            RedisUser redisUser = redisUserRepository.findById(i);
+        }
+        long endOne = System.currentTimeMillis();
+        long sumOne = endOne - beginOne;
+        System.out.println(" redisUserRepository 10000 共耗时 : " + sumOne + " 平均值 : " + (sumOne / 10000));
+
+        long beginTwo = System.currentTimeMillis();
+        for (int i = 20000; i < 30000; i++) {
+            redisTemplate.opsForValue().get(i + "");
+        }
+        long endTwo = System.currentTimeMillis();
+        long sumTwo = endTwo - beginTwo;
+        System.out.println(" redisTemplate 10000 共耗时 : " + sumTwo + " 平均值 : " + (sumTwo / 10000));
     }
 
 }

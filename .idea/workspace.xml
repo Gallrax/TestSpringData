@@ -2,261 +2,240 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="133d10f4-0b98-4c62-916d-bb9227f7151a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/_state/global-35.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/_state/state-33.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/index/segments_3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/index/write.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-14.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-14.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-15.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-15.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-16.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-16.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-17.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-17.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-18.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-18.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-19.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-19.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-20.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-20.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-21.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-21.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-22.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-22.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-23.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-23.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-24.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-24.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-25.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-25.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-26.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-26.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-27.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-27.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-28.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-28.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-29.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-29.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-30.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-30.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-31.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-31.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-32.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-32.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-33.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-33.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-34.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/_state/state-33.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/index/segments_3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/index/write.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-14.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-14.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-15.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-15.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-16.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-16.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-17.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-17.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-18.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-18.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-19.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-19.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-20.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-20.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-21.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-21.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-22.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-22.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-23.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-23.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-24.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-24.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-25.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-25.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-26.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-26.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-27.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-27.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-28.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-28.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-29.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-29.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-30.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-30.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-31.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-31.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-32.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-32.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-33.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-33.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-34.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/_state/state-33.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/index/segments_3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/index/write.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-14.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-14.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-15.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-15.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-16.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-16.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-17.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-17.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-18.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-18.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-19.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-19.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-20.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-20.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-21.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-21.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-22.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-22.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-23.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-23.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-24.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-24.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-25.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-25.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-26.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-26.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-27.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-27.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-28.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-28.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-29.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-29.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-30.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-30.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-31.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-31.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-32.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-32.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-33.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-33.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-34.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/_state/state-33.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/index/segments_3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/index/write.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-14.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-14.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-15.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-15.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-16.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-16.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-17.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-17.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-18.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-18.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-19.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-19.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-20.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-20.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-21.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-21.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-22.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-22.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-23.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-23.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-24.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-24.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-25.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-25.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-26.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-26.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-27.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-27.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-28.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-28.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-29.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-29.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-30.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-30.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-31.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-31.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-32.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-32.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-33.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-33.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-34.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/_state/state-33.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/index/segments_3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/index/write.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-14.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-14.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-15.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-15.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-16.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-16.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-17.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-17.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-18.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-18.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-19.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-19.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-20.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-20.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-21.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-21.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-22.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-22.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-23.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-23.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-24.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-24.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-25.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-25.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-26.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-26.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-27.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-27.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-28.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-28.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-29.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-29.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-30.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-30.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-31.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-31.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-32.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-32.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-33.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-33.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-34.tlog" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog.ckp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/_state/state-67.st" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_9_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cx/web/RedisUserController.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/_state/global-1.st" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cx/Application.class" afterPath="$PROJECT_DIR$/target/classes/com/cx/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cx/config/GlobalConfig.class" afterPath="$PROJECT_DIR$/target/classes/com/cx/config/GlobalConfig.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/_state/global-35.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/_state/state-33.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/index/segments_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-14.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-14.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-15.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-15.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-16.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-16.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-17.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-17.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-18.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-18.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-19.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-19.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-20.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-20.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-21.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-21.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-22.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-22.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-23.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-23.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-24.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-24.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-25.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-25.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-26.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-26.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-27.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-27.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-28.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-28.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-29.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-29.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-30.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-30.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-31.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-31.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-32.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-32.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-33.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-33.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog-34.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/_state/state-33.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/index/segments_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-14.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-14.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-15.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-15.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-16.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-16.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-17.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-17.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-18.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-18.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-19.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-19.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-20.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-20.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-21.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-21.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-22.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-22.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-23.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-23.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-24.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-24.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-25.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-25.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-26.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-26.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-27.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-27.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-28.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-28.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-29.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-29.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-30.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-30.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-31.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-31.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-32.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-32.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-33.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-33.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog-34.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/_state/state-33.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/index/segments_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-14.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-14.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-15.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-15.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-16.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-16.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-17.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-17.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-18.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-18.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-19.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-19.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-20.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-20.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-21.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-21.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-22.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-22.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-23.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-23.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-24.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-24.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-25.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-25.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-26.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-26.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-27.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-27.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-28.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-28.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-29.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-29.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-30.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-30.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-31.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-31.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-32.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-32.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-33.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-33.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog-34.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/_state/state-33.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/index/segments_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-14.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-14.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-15.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-15.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-16.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-16.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-17.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-17.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-18.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-18.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-19.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-19.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-20.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-20.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-21.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-21.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-22.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-22.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-23.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-23.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-24.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-24.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-25.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-25.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-26.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-26.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-27.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-27.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-28.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-28.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-29.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-29.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-30.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-30.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-31.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-31.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-32.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-32.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-33.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-33.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog-34.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/_state/state-33.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/index/segments_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-14.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-14.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-15.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-15.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-16.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-16.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-17.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-17.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-18.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-18.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-19.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-19.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-20.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-20.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-21.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-21.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-22.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-22.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-23.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-23.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-24.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-24.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-25.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-25.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-26.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-26.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-27.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-27.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-28.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-28.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-29.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-29.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-30.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-30.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-31.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-31.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-32.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-32.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-33.ckp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-33.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog-34.tlog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/_state/state-67.st" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog.ckp" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/0/translog/translog.ckp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog.ckp" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/1/translog/translog.ckp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog.ckp" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/2/translog/translog.ckp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog.ckp" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/3/translog/translog.ckp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog.ckp" afterPath="$PROJECT_DIR$/data/elasticsearch/nodes/0/indices/testspringdata/4/translog/translog.ckp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cx/entity/User.class" afterPath="$PROJECT_DIR$/target/classes/com/cx/entity/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cx/repository/jpa/UserRepository.class" afterPath="$PROJECT_DIR$/target/classes/com/cx/repository/jpa/UserRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$1.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$2.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cx/test/UserTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestSpringData.iml" afterPath="$PROJECT_DIR$/TestSpringData.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/config/ElasticSearchConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/config/ElasticSearchConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/config/GlobalConfig.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/config/GlobalConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/config/RedisConfiguration.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/config/RedisConfiguration.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/entity/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/application.yml" afterPath="$PROJECT_DIR$/target/classes/application.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -275,48 +254,52 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RedisConfiguration.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RedisConfiguration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/config/RedisConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+            <state relative-caret-position="357">
+              <caret line="66" column="68" lean-forward="true" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2348#2364#0" expanded="true" />
+                <marker date="1518074799947" expanded="false" signature="31:482" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="195" column="33" lean-forward="true" selection-start-line="195" selection-start-column="33" selection-end-line="195" selection-end-column="33" />
+            <state relative-caret-position="517">
+              <caret line="264" column="32" lean-forward="false" selection-start-line="264" selection-start-column="32" selection-end-line="264" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2718#2726#0" expanded="true" />
+                <element signature="e#8283#8291#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisUserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java">
+      <file leaf-file-name="RedisTemplate.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+            <state relative-caret-position="176">
+              <caret line="829" column="29" lean-forward="false" selection-start-line="829" selection-start-column="29" selection-end-line="829" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#32389#32390#0" expanded="true" />
+                <element signature="e#32443#32444#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisUser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java">
+      <file leaf-file-name="DefaultHashOperations.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/DefaultHashOperations.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            <state relative-caret-position="120">
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -325,22 +308,21 @@
       <file leaf-file-name="RedisUserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/web/RedisUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2097#2108#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="217">
+              <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/Application.java">
+      <file leaf-file-name="RedisUserRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -348,8 +330,18 @@
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="180">
+              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="30" column="78" lean-forward="false" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -400,20 +392,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cx/service/impl/UserSerImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/AddressRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cx/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/entity/ESUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/repository/es/ESUserRepository.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/config/ElasticSearchConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/config/GlobalConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/web/RedisUserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cx/entity/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cx/config/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java" />
       </list>
     </option>
   </component>
@@ -454,7 +446,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -481,18 +472,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -509,6 +488,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -535,6 +518,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestSpringData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestSpringData" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -571,6 +584,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -588,14 +602,14 @@
       <recent name="D:\Program Files (x86)\JetBrains\IdeaProjects\TestSpringData\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTest.test28">
-    <configuration default="false" name="UserTest.test26" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UserTest.test30">
+    <configuration default="false" name="UserTest.test32" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSpringData" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cx.test" />
       <option name="MAIN_CLASS_NAME" value="com.cx.test.UserTest" />
-      <option name="METHOD_NAME" value="test26" />
+      <option name="METHOD_NAME" value="test32" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -609,13 +623,13 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="UserTest.test09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="UserTest.test33" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSpringData" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cx.test" />
       <option name="MAIN_CLASS_NAME" value="com.cx.test.UserTest" />
-      <option name="METHOD_NAME" value="test09" />
+      <option name="METHOD_NAME" value="test33" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -629,13 +643,13 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="UserTest.test21" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="UserTest.test34" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSpringData" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cx.test" />
       <option name="MAIN_CLASS_NAME" value="com.cx.test.UserTest" />
-      <option name="METHOD_NAME" value="test21" />
+      <option name="METHOD_NAME" value="test34" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -649,13 +663,13 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="UserTest.test27" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="UserTest.test31" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSpringData" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cx.test" />
       <option name="MAIN_CLASS_NAME" value="com.cx.test.UserTest" />
-      <option name="METHOD_NAME" value="test27" />
+      <option name="METHOD_NAME" value="test31" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -669,13 +683,13 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="UserTest.test28" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="UserTest.test30" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestSpringData" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.cx.test" />
       <option name="MAIN_CLASS_NAME" value="com.cx.test.UserTest" />
-      <option name="METHOD_NAME" value="test28" />
+      <option name="METHOD_NAME" value="test30" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -835,19 +849,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.UserTest.test26" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.UserTest.test09" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.UserTest.test21" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.UserTest.test27" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.UserTest.test28" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UserTest.test32" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UserTest.test33" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserTest.test34" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.UserTest.test31" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.UserTest.test30" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.UserTest.test28" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.UserTest.test27" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.UserTest.test21" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.UserTest.test09" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.UserTest.test26" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.UserTest.test30" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserTest.test31" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UserTest.test34" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.UserTest.test33" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UserTest.test32" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -863,36 +877,39 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TestHistory">
-    <history-entry file="UserTest_test27 - 2018.02.07 at 11h 35m 48s.xml">
-      <configuration name="UserTest.test27" configurationId="JUnit" />
+    <history-entry file="UserTest_test30 - 2018.02.08 at 16h 14m 24s.xml">
+      <configuration name="UserTest.test30" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test27 - 2018.02.07 at 14h 47m 10s.xml">
-      <configuration name="UserTest.test27" configurationId="JUnit" />
+    <history-entry file="UserTest_test30 - 2018.02.08 at 16h 15m 25s.xml">
+      <configuration name="UserTest.test30" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test27 - 2018.02.07 at 15h 58m 46s.xml">
-      <configuration name="UserTest.test27" configurationId="JUnit" />
+    <history-entry file="UserTest_test30 - 2018.02.08 at 16h 17m 44s.xml">
+      <configuration name="UserTest.test30" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test27 - 2018.02.07 at 16h 00m 56s.xml">
-      <configuration name="UserTest.test27" configurationId="JUnit" />
+    <history-entry file="UserTest_test31 - 2018.02.08 at 16h 09m 47s.xml">
+      <configuration name="UserTest.test31" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test27 - 2018.02.07 at 16h 10m 47s.xml">
-      <configuration name="UserTest.test27" configurationId="JUnit" />
+    <history-entry file="UserTest_test31 - 2018.02.08 at 16h 11m 45s.xml">
+      <configuration name="UserTest.test31" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test28 - 2018.02.07 at 11h 33m 39s.xml">
-      <configuration name="UserTest.test28" configurationId="JUnit" />
+    <history-entry file="UserTest_test34 - 2018.02.08 at 15h 31m 16s.xml">
+      <configuration name="UserTest.test34" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test28 - 2018.02.07 at 16h 02m 12s.xml">
-      <configuration name="UserTest.test28" configurationId="JUnit" />
+    <history-entry file="UserTest_test34 - 2018.02.08 at 15h 31m 57s.xml">
+      <configuration name="UserTest.test34" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test28 - 2018.02.07 at 16h 07m 44s.xml">
-      <configuration name="UserTest.test28" configurationId="JUnit" />
+    <history-entry file="UserTest_test34 - 2018.02.08 at 15h 33m 25s.xml">
+      <configuration name="UserTest.test34" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test28 - 2018.02.07 at 16h 10m 03s.xml">
-      <configuration name="UserTest.test28" configurationId="JUnit" />
+    <history-entry file="UserTest_test34 - 2018.02.08 at 15h 34m 09s.xml">
+      <configuration name="UserTest.test34" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_test28 - 2018.02.07 at 16h 14m 29s.xml">
-      <configuration name="UserTest.test28" configurationId="JUnit" />
+    <history-entry file="UserTest_test34 - 2018.02.08 at 15h 36m 18s.xml">
+      <configuration name="UserTest.test34" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -906,11 +923,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3040089" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31625834" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12992546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13205537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22523962" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -952,176 +969,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/2.4.5/elasticsearch-2.4.5.jar!/org/elasticsearch/index/query/QueryBuilders.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="75" column="22" lean-forward="false" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/core/query/SearchQuery.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/repository/ElasticsearchCrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="107" lean-forward="true" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/support/QueryDslJpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="33" column="77" lean-forward="true" selection-start-line="33" selection-start-column="77" selection-end-line="33" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/EntityManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar!/org/hibernate/jpa/spi/AbstractEntityManagerImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="625" column="17" lean-forward="false" selection-start-line="625" selection-start-column="17" selection-end-line="625" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="151" column="48" lean-forward="true" selection-start-line="151" selection-start-column="48" selection-end-line="151" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/repository/support/SimpleElasticsearchRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/core/ElasticsearchTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="128" column="96" lean-forward="true" selection-start-line="128" selection-start-column="96" selection-end-line="128" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/core/ElasticsearchOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/repository/support/AbstractElasticsearchRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="40" column="25" lean-forward="false" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-elasticsearch/2.1.4.RELEASE/spring-data-elasticsearch-2.1.4.RELEASE.jar!/org/springframework/data/elasticsearch/repository/ElasticsearchRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/es/ESUserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/connection/RedisConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/DefaultSetOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="97" column="57" lean-forward="true" selection-start-line="97" selection-start-column="57" selection-end-line="97" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/connection/jedis/JedisConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="52" column="13" lean-forward="false" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.9.RELEASE/spring-test-4.3.9.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1129,7 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1137,10 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding>
-            <element signature="e#1106#1107#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,6 +994,254 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <marker date="1517970606416" expanded="true" signature="1666:1824" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.44/fastjson-1.2.44.jar!/com/alibaba/fastjson/support/spring/FastJsonRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/serializer/RedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/serializer/StringRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/repository/KeyValueRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="98" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/RedisKeyValueTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/core/KeyValueTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="116" column="16" lean-forward="false" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/core/KeyValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/repository/support/SimpleKeyValueRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.7.0_75/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="119" column="11" lean-forward="false" selection-start-line="119" selection-start-column="11" selection-end-line="119" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.7.0_75/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="13" lean-forward="false" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.7.0_75/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="148" column="19" lean-forward="false" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar!/org/hibernate/jpa/criteria/CriteriaBuilderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar!/org/hibernate/jpa/internal/EntityManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="185" column="17" lean-forward="false" selection-start-line="185" selection-start-column="17" selection-end-line="185" selection-end-column="17" />
+          <folding>
+            <element signature="e#3521#3522#0" expanded="true" />
+            <element signature="e#3557#3558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/config/JpaRepositoriesRegistrar.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/support/JpaRepositoryFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/cache/annotation/Cacheable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar!/org/hibernate/annotations/CacheConcurrencyStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/config/EnableJpaRepositories.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/jpa/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar!/org/springframework/data/repository/core/support/AbstractEntityInformation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar!/org/hibernate/jpa/spi/AbstractEntityManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="626" column="8" lean-forward="true" selection-start-line="626" selection-start-column="8" selection-end-line="626" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1162,221 +1256,138 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/config/ElasticSearchConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
+        <state relative-caret-position="573">
           <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="27" selection-end-column="21" />
-          <folding>
-            <marker date="1517970606416" expanded="true" signature="1666:1824" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/config/GlobalConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="240">
           <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/DefaultValueOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="331" column="45" lean-forward="false" selection-start-line="331" selection-start-column="45" selection-end-line="331" selection-end-column="45" />
-          <folding>
-            <element signature="e#14718#14719#0" expanded="true" />
-            <element signature="e#14769#14770#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.9.RELEASE/spring-web-4.3.9.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.44/fastjson-1.2.44.jar!/com/alibaba/fastjson/support/spring/FastJsonRedisSerializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/serializer/RedisSerializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/web/RedisUserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2097#2108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/serializer/StringRedisSerializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.4.RELEASE/spring-data-commons-1.13.4.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="195" column="33" lean-forward="true" selection-start-line="195" selection-start-column="33" selection-end-line="195" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/repository/KeyValueRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="98" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="98" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/entity/RedisUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/RedisKeyValueTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="70" column="20" lean-forward="true" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/core/KeyValueTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="116" column="16" lean-forward="false" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/core/KeyValueOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-keyvalue/1.2.4.RELEASE/spring-data-keyvalue-1.2.4.RELEASE.jar!/org/springframework/data/keyvalue/repository/support/SimpleKeyValueRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="424">
+          <caret line="30" column="78" lean-forward="false" selection-start-line="30" selection-start-column="78" selection-end-line="30" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/repository/redis/RedisUserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        <state relative-caret-position="300">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="35" lean-forward="false" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/DefaultHashOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="829" column="29" lean-forward="false" selection-start-line="829" selection-start-column="29" selection-end-line="829" selection-end-column="29" />
+          <folding>
+            <element signature="e#32389#32390#0" expanded="true" />
+            <element signature="e#32443#32444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/web/RedisUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="62" column="27" lean-forward="false" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cx/config/RedisConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+        <state relative-caret-position="357">
+          <caret line="66" column="68" lean-forward="true" selection-start-line="66" selection-start-column="68" selection-end-line="66" selection-end-column="68" />
+          <folding>
+            <element signature="e#2348#2364#0" expanded="true" />
+            <marker date="1518074799947" expanded="false" signature="31:482" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/1.8.4.RELEASE/spring-data-redis-1.8.4.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar!/org/hibernate/jpa/criteria/CriteriaQueryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+          <folding>
+            <element signature="e#2976#2977#0" expanded="true" />
+            <element signature="e#3035#3036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="379" column="18" lean-forward="true" selection-start-line="379" selection-start-column="18" selection-end-line="379" selection-end-column="18" />
+          <folding>
+            <element signature="e#10428#10429#0" expanded="true" />
+            <element signature="e#10498#10499#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/1.11.4.RELEASE/spring-data-jpa-1.11.4.RELEASE.jar!/org/springframework/data/jpa/repository/JpaSpecificationExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cx/test/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="264" column="32" lean-forward="false" selection-start-line="264" selection-start-column="32" selection-end-line="264" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2718#2726#0" expanded="true" />
+            <element signature="e#8283#8291#0" expanded="true" />
           </folding>
         </state>
       </provider>

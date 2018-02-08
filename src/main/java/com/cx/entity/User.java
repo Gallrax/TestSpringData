@@ -3,6 +3,8 @@ package com.cx.entity;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.Cache;
+import org.hibernate.annotations.CacheConcurrencyStrategy;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -15,6 +17,7 @@ import javax.persistence.Id;
  * @Version: 1.0
  */
 @Entity(name = "cx_user")
+@Cache(usage = CacheConcurrencyStrategy.NONE)
 @Data//@Data 包含了 @ToString、@EqualsAndHashCode、@Getter/@Setter和@RequiredArgsConstructor
 @NoArgsConstructor
 @AllArgsConstructor

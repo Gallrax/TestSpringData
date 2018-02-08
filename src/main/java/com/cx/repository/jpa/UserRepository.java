@@ -1,6 +1,7 @@
 package com.cx.repository.jpa;
 
 import com.cx.entity.User;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;
@@ -23,6 +24,10 @@ public interface UserRepository extends JpaRepository<User, Integer>, JpaSpecifi
      * @Version: 1.0
      */
     List<User> findBySex(Integer sex);
+
+    User findById(Integer id);
+
+    List<User> findByName(String name);
 
     List<User> findByNameOrSurname(String name, String surname);
 

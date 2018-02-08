@@ -4,10 +4,10 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
-import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.repository.configuration.EnableRedisRepositories;
+import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
  * @Author: 冯冠凯
@@ -41,12 +41,12 @@ public class RedisConfiguration {
      * @Date: Created on 2018/2/7
      * @Version: 1.0
      */
-    @Bean
+    /*@Bean
     public RedisTemplate<?, ?> redisTemplate(RedisConnectionFactory factory) {
         RedisTemplate<byte[], byte[]> template = new RedisTemplate<byte[], byte[]>();
         template.setConnectionFactory(factory);
         return template;
-    }
+    }*/
 
     /**
      * @Author: 冯冠凯 
@@ -54,7 +54,7 @@ public class RedisConfiguration {
      * @Date: Created on 2018/2/7
      * @Version: 1.0
      */
-    /*@Bean
+    @Bean
     public RedisTemplate redisTemplate(JedisConnectionFactory jedisConnectionFactory) {
         String hostName = jedisConnectionFactory.getHostName();
         int port = jedisConnectionFactory.getPort();
@@ -66,5 +66,5 @@ public class RedisConfiguration {
         redisTemplate.setDefaultSerializer(new StringRedisSerializer());
         redisTemplate.setKeySerializer(new StringRedisSerializer());
         return redisTemplate;
-    }*/
+    }
 }
